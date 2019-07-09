@@ -16,5 +16,5 @@ description: 订单创建好了，但临时需要增加旅客，这样操作
 确认单直接增加确认人员，并自动产生付费账单（确认单增加人员需要谨慎核实）
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 

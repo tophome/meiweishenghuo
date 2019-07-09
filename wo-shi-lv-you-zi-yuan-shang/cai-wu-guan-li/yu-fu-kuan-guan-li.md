@@ -6,11 +6,11 @@
 
 每次给供应商付款后，我们需要`新增预付款`，将付款信息保存下来
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 ### 使用预付款进行付款
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 
 

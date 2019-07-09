@@ -4,9 +4,9 @@
 
 可以进行批量付款操作
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 选择对应的应付款账单后，可以进行批量付款操作
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 

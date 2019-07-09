@@ -4,7 +4,7 @@
 
 领队可以为多个
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 
 

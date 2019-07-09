@@ -12,5 +12,5 @@
 确认单直接增加确认人员，并自动产生付费账单（确认单增加人员需要谨慎核实
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 

@@ -6,13 +6,13 @@ description: 预留单中有些旅客不去了，要这样操作
 
 当前订单有3个人，其中有一个人不想去了，点击**`申请调整人员信息`**按钮
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 删除 刘志梅
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 点击删除后，这个人就没了，预占的库存，也自动释放出来一个
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 

@@ -6,5 +6,5 @@
 
 点击订单号，可以查看订单详情
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/image%20%28108%29.png)
 

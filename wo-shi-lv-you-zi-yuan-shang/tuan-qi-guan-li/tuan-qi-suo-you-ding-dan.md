@@ -8,5 +8,5 @@
 
 可以看到当前团期的订单总金额、总人数、总房间数
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 

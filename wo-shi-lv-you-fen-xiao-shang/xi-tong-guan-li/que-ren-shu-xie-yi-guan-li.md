@@ -4,7 +4,7 @@
 
 录入确认书标题和内容，确认书内容一般为协议模板
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28119%29.png)
 

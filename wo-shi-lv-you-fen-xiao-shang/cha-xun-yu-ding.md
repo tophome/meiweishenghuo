@@ -4,13 +4,13 @@
 
 默认显示所有团期产品，可以看到每个团期的库存情况以及其实价格
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 ### 团期详情
 
 点击产品名称，可以看到具体的团期信息和价格情况
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 ### 创建订单
 
@@ -18,9 +18,9 @@
 
 选择客户信息，如果客户不存在，则点击加号快速创建客户
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 
 

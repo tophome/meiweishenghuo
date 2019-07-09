@@ -4,5 +4,5 @@
 
 团期状态为**正常**时，当前团期可以预定，否则不可预定
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 

@@ -22,7 +22,7 @@ description: 可以准确掌握当前团期的所有情况，包括收入、支�
 团期的成本支出
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 

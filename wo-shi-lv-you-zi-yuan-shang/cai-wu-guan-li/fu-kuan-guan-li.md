@@ -4,7 +4,7 @@
 
 大部分付款记录都产生于团期管理的团期成本中，不指定团期的，也可以手动添加付款记录
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 ### 提交付款申请
 
@@ -12,13 +12,13 @@
 
 付款时，针对一个付款记录，可以分配付款，比如1000块的单据，可以一次付600，一次付400
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ### 待审核
 
 待审核界面中，需要主管人员进行付款申请的审核，判断此次付款申请是否合理，审批同意后，会进入财务付款流程，如何审批拒绝，则可以重新提交申请
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 ![](../../.gitbook/assets/image.png)
 
@@ -36,11 +36,11 @@
 如果付款单金额过大，我们需要分批付款，比如100万，先付30万，再付50万，再付20万。
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 ### 付款成功
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 
 

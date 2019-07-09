@@ -6,5 +6,5 @@
 
 订单取消后，库存会有预占状态释放出来，释放出来后，其他人可以预定
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 

@@ -4,17 +4,17 @@
 
 我们需要在这里进行维护，同时也会体现在收款管理中
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 
 
 可以发起收款（未收款状态下，可以修改或者删除）
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 提交收款后，如下图所示
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 
 

@@ -4,5 +4,5 @@
 
 无论是预留单还是确认单，都可以创建补款，创建后需要指定人员[审核补款单](bu-kuan-dan-guan-li.md)
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 

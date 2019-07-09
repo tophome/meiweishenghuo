@@ -4,11 +4,11 @@
 
 点击`延长预定时间`按钮，即可弹出窗口，选择要延长的时间
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 
 
 延长后，结果如下图所示
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 

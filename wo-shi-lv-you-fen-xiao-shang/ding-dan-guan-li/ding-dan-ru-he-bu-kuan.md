@@ -4,5 +4,5 @@
 
 供应商那边需要审核后才生效
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 

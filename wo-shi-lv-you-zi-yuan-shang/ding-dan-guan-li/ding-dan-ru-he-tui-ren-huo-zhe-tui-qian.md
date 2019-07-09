@@ -8,7 +8,7 @@
 提交成功后，库存不会立即释放，需要审核同意退款才可以
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28107%29.png)
+![](../../.gitbook/assets/image%20%28110%29.png)
 
 
 

@@ -4,13 +4,13 @@
 
 点击`申请调整人员信息`按钮
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
 选择对应的旅客后，点击`删除人员`
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
 提交后，就只剩下一名旅客了，费用明细也发生了变化
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 

@@ -2,11 +2,11 @@
 
 ### 提交收款
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 所有已确认的订单，都会在收款管理中产生账单，默认为未收款状态，点击**批量收款**，可以提交收款操作。
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 填写收款信息
 
@@ -21,13 +21,13 @@
 **审核成功：**银行已确认到账，则点击审核成功  
 **审核失败：**银行未到账，可以晚点审核，或者审核失败（确认没到账）
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
 ### 审核成功
 
 已收款中可以查看审核成功的订单
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 
 
@@ -37,15 +37,15 @@
 
 如果选择单个收款记录，可以打印一联收款单和二联收款单
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28104%29.png)
 
 ### 收款单的发票管理
 
 可以在此处直接提交发票申请处理
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 
 

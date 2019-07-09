@@ -12,7 +12,7 @@
 
 正常情况下，退款金额和供应商退款金额填写一致
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 
 
